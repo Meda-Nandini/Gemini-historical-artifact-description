@@ -1,0 +1,19 @@
+# Core Python libraries
+numpy==1.26.4
+pandas==2.2.1
+
+# Image and visualization
+opencv-python==4.9.0.80
+Pillow==10.2.0
+matplotlib==3.8.3
+
+# NLP and AI description generation
+transformers==4.37.0
+torch==2.2.0
+sentencepiece==0.2.0
+
+# Utilities
+tqdm==4.66.2
+requests==2.31.0
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
